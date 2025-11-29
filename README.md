@@ -1,1 +1,1 @@
-here is my deep learning pratice with pytorch
+here is my deep learning practice with pytorch
